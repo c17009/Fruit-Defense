@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: ab8af29d83137ad48abbef5a19430c6c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group1
+    100002: kobito_animbase1:Ankle_L
+    100004: kobito_animbase1:Ankle_R
+    100006: kobito_animbase1:Chest_M
+    100008: kobito_animbase1:DeformationSystem
+    100010: kobito_animbase1:Elbow_L
+    100012: kobito_animbase1:Elbow_R
+    100014: kobito_animbase1:ElbowPart1_L
+    100016: kobito_animbase1:ElbowPart1_R
+    100018: kobito_animbase1:ElbowPart2_L
+    100020: kobito_animbase1:ElbowPart2_R
+    100022: kobito_animbase1:Group
+    100024: kobito_animbase1:Head_M
+    100026: kobito_animbase1:HeadEnd_M
+    100028: kobito_animbase1:Hip_L
+    100030: kobito_animbase1:Hip_R
+    100032: kobito_animbase1:HipPart1_L
+    100034: kobito_animbase1:HipPart1_R
+    100036: kobito_animbase1:HipPart2_L
+    100038: kobito_animbase1:HipPart2_R
+    100040: kobito_animbase1:joint1
+    100042: kobito_animbase1:joint2
+    100044: kobito_animbase1:joint3
+    100046: kobito_animbase1:joint4
+    100048: kobito_animbase1:Knee_L
+    100050: kobito_animbase1:Knee_R
+    100052: kobito_animbase1:Main
+    100054: kobito_animbase1:Neck_M
+    100056: kobito_animbase1:NeckPart1_M
+    100058: kobito_animbase1:NeckPart2_M
+    100060: kobito_animbase1:Root_M
+    100062: kobito_animbase1:RootPart1_M
+    100064: kobito_animbase1:RootPart2_M
+    100066: kobito_animbase1:Scapula_L
+    100068: kobito_animbase1:Scapula_R
+    100070: kobito_animbase1:Shoulder_L
+    100072: kobito_animbase1:Shoulder_R
+    100074: kobito_animbase1:ShoulderPart1_L
+    100076: kobito_animbase1:ShoulderPart1_R
+    100078: kobito_animbase1:ShoulderPart2_L
+    100080: kobito_animbase1:ShoulderPart2_R
+    100082: kobito_animbase1:Spine1_M
+    100084: kobito_animbase1:Toes_L
+    100086: kobito_animbase1:Toes_R
+    100088: kobito_animbase1:ToesEnd_L
+    100090: kobito_animbase1:ToesEnd_R
+    100092: kobito_animbase1:Wrist_L
+    100094: kobito_animbase1:Wrist_R
+    100096: kobito_animbase:Group
+    100098: //RootNode
+    100100: nurbsCircle1
+    100102: pCube2
+    100104: pCube3
+    100106: polySurface19
+    400000: group1
+    400002: kobito_animbase1:Ankle_L
+    400004: kobito_animbase1:Ankle_R
+    400006: kobito_animbase1:Chest_M
+    400008: kobito_animbase1:DeformationSystem
+    400010: kobito_animbase1:Elbow_L
+    400012: kobito_animbase1:Elbow_R
+    400014: kobito_animbase1:ElbowPart1_L
+    400016: kobito_animbase1:ElbowPart1_R
+    400018: kobito_animbase1:ElbowPart2_L
+    400020: kobito_animbase1:ElbowPart2_R
+    400022: kobito_animbase1:Group
+    400024: kobito_animbase1:Head_M
+    400026: kobito_animbase1:HeadEnd_M
+    400028: kobito_animbase1:Hip_L
+    400030: kobito_animbase1:Hip_R
+    400032: kobito_animbase1:HipPart1_L
+    400034: kobito_animbase1:HipPart1_R
+    400036: kobito_animbase1:HipPart2_L
+    400038: kobito_animbase1:HipPart2_R
+    400040: kobito_animbase1:joint1
+    400042: kobito_animbase1:joint2
+    400044: kobito_animbase1:joint3
+    400046: kobito_animbase1:joint4
+    400048: kobito_animbase1:Knee_L
+    400050: kobito_animbase1:Knee_R
+    400052: kobito_animbase1:Main
+    400054: kobito_animbase1:Neck_M
+    400056: kobito_animbase1:NeckPart1_M
+    400058: kobito_animbase1:NeckPart2_M
+    400060: kobito_animbase1:Root_M
+    400062: kobito_animbase1:RootPart1_M
+    400064: kobito_animbase1:RootPart2_M
+    400066: kobito_animbase1:Scapula_L
+    400068: kobito_animbase1:Scapula_R
+    400070: kobito_animbase1:Shoulder_L
+    400072: kobito_animbase1:Shoulder_R
+    400074: kobito_animbase1:ShoulderPart1_L
+    400076: kobito_animbase1:ShoulderPart1_R
+    400078: kobito_animbase1:ShoulderPart2_L
+    400080: kobito_animbase1:ShoulderPart2_R
+    400082: kobito_animbase1:Spine1_M
+    400084: kobito_animbase1:Toes_L
+    400086: kobito_animbase1:Toes_R
+    400088: kobito_animbase1:ToesEnd_L
+    400090: kobito_animbase1:ToesEnd_R
+    400092: kobito_animbase1:Wrist_L
+    400094: kobito_animbase1:Wrist_R
+    400096: kobito_animbase:Group
+    400098: //RootNode
+    400100: nurbsCircle1
+    400102: pCube2
+    400104: pCube3
+    400106: polySurface19
+    2100000: boushi_top
+    2100002: anisotropic1
+    2300000: pCube2
+    3300000: pCube2
+    4300000: polySurface19
+    4300002: pCube3
+    4300004: pCube2
+    7400000: Down
+    9500000: //RootNode
+    13700000: pCube3
+    13700002: polySurface19
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Down
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
